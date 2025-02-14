@@ -2,6 +2,19 @@
 // ADMOB
 google.com, pub-5118961420983262, DIRECT, f08c47fec0942fa0
 
+ad-generation.jp, 14284, DIRECT, 7f4ea9029ac04e53
+ad-generation.jp, 14284-2, RESELLER, 7f4ea9029ac04e53
+pubmatic.com, 158357, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 5444561541445527220, RESELLER, 29bc7d05d309e1bc
+rhythmone.com, 5444561541445527220, RESELLER, a670c89d4a324e47
+xandr.com, 8449, RESELLER
+tradplusad.com, b3fca24bd11c1242, RESELLER
+onetag.com, 8c90176af2e65c8, RESELLER
+openx.com, 541017750, RESELLER, 6a698e2ec38604c6
+taurusx.com, 80029, RESELLER
+inmobi.com, 0c8e054083954c68a45044396a1c3df8, RESELLER, 83e75a7ae333ca9d
+thunder-monetize.com, 8221217003, RESELLER
+
 // APPLOVIN 
 applovin.com, 20a0992c8bbb605a6a89c30fbdfba0d8, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
